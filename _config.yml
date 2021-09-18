@@ -1,2 +1,5 @@
-name: anisia
-title: null
+title: Anisia Popescu
+author:
+  eamil: anisiapopescu@uni-potsdam.de
+ 
+remote_theme: jekyll/minima
