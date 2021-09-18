@@ -1,5 +1,4 @@
 title: Anisia Popescu
-author:
-  eamil: anisiapopescu@uni-potsdam.de
+
  
-remote_theme: jekyll/minima
+remote_theme: jekyll/slate
