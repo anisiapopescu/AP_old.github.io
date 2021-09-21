@@ -34,16 +34,19 @@ pdf version here: [CV](https://github.com/anisiapopescu/anisiapopescu.github.io/
 
 **Conference Proceedings**
 1. Anisia Popescu, (2019), Syllable-count judgments: relating gestural composition and syllable weight, Proceedings of the 54th Annual Meeting of the Chicago Linguistics Society; 425-434; Eszter Ronai, Laura Stigliano and Yenan Sun (eds.).
-2. Anisia Popescu & Ioana Chitoran, (2018), Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018)
+2. Anisia Popescu & Ioana Chitoran, (2018), Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018) [pdf](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/JEP2018_Proceedings.pdf![image](https://user-images.githubusercontent.com/5738773/134093824-de5b5715-6677-450d-8338-f76f98c1b2f8.png)
 3. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et positions dans la syllabe: Le cas des consonnes latérales, JEP-TALN-RECITAL2016 [link](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/J52.pdf)
 
 **Conference presentations**
 1. Anisia Popescu & Aude Noiray,(2021) Does Learning to Read interact with speech patterns in consistent alphabetic systems? The case of German, AMLap2021, Paris, September 2-4, short talk, [virtual]
 2. Anisia Popescu & Aude Noiray,(2021) Does learning how to read affect the way you speak? Preliminary insight from German beginning readers, 2021 Interantional Child Phonology 
-Conference, Canada June 17-19, talk, [virtual]
+Conference, Canada June 17-19, [ppt], [virtual]
 3. Anisia Popescu & Elina Rubertus, (2020) Development of coarticulation: comparing modalities in beginner readers, 12th International Seminar on Speech Production, Providence, 
-14-18 December, poster, [virtual]
-4. Anisia Popescu & Aude Noiray, (2020) Coarticulatory organization in beginner readers: a multifactorial interaction approach, 12th International Seminar on Speech Production, Providence, poster, [virtual]
+14-18 December, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Rubertus_Popescu_ISSP113_poster.pdf  ![image](https://user-images.githubusercontent.com/5738773/134093521-95910672-c260-4e02-824f-55d6c5f9d800.png)
+), [virtual]
+4. Anisia Popescu & Aude Noiray, (2020) Coarticulatory organization in beginner readers: a multifactorial interaction approach, 12th International Seminar on Speech Production, Providence, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_ISSP111_Poster.pdf  ![image](https://user-images.githubusercontent.com/5738773/134093695-78354494-02fa-4873-b864-99d79b55b4a1.png)
+5. Anisia Popescu & Aude Noiray, (2019), Reading proficiency and Phonemic awareness as predictors of coarticulatory gradients in children, Boston University Conference on Language
+Development BUCLD44, Boston, 7-9 November,[poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_posterBUCLD44.pdf ![image](https://user-images.githubusercontent.com/5738773/134093566-eefa85df-c373-4492-b6b9-66ce04fc8432.png), [abstract](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_Anisia_Noiray_Aude_BUCLD_Abstract.pdf ![image](https://user-images.githubusercontent.com/5738773/134093589-1e5ded8b-f40f-48f7-b643-aae2c55dac4a.png), 
 
 
 
