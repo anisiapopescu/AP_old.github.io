@@ -33,14 +33,14 @@ pdf version here: [CV](https://github.com/anisiapopescu/anisiapopescu.github.io/
 (* = joint first authorship)
 
 **Conference Proceedings**
-1. Anisia Popescu, (2019), Syllable-count judgments: relating gestural composition and syllable weight, Proceedings of the 54th Annual Meeting of the Chicago Linguistics Society; 425-434; Eszter Ronai, Laura Stigliano and Yenan Sun (eds.).
+1. Anisia Popescu, (2019), Syllable-count judgments: relating gestural composition and syllable weight, Proceedings of the 54th Annual Meeting of the Chicago Linguistics Society; 425-434; Eszter Ronai, Laura Stigliano and Yenan Sun (eds.). [link](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/CLS54_Proceedings.pdf)
 2. Anisia Popescu & Ioana Chitoran, (2018), Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018) [pdf](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/JEP2018_Proceedings.pdf)
 3. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et positions dans la syllabe: Le cas des consonnes latérales, JEP-TALN-RECITAL2016 [link](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/J52.pdf)
 
 **Conference presentations**
 1. Anisia Popescu & Aude Noiray,(2021) Does Learning to Read interact with speech patterns in consistent alphabetic systems? The case of German, AMLap2021, Paris, September 2-4, short talk, [virtual]
 2. Anisia Popescu & Aude Noiray,(2021) Does learning how to read affect the way you speak? Preliminary insight from German beginning readers, 2021 Interantional Child Phonology 
-Conference, Canada June 17-19, [ppt], [virtual]
+Conference, Canada June 17-19, [ppt](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/ICPC2021.pdf), [virtual]
 3. Anisia Popescu & Elina Rubertus, (2020) Development of coarticulation: comparing modalities in beginner readers, 12th International Seminar on Speech Production, Providence, 
 14-18 December, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Rubertus_Popescu_ISSP113_poster.pdf)
 ), [virtual]
@@ -48,8 +48,8 @@ Conference, Canada June 17-19, [ppt], [virtual]
 5. Anisia Popescu & Aude Noiray, (2019), Reading proficiency and Phonemic awareness as predictors of coarticulatory gradients in children, Boston University Conference on Language
 Development BUCLD44, Boston, 7-9 November, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_posterBUCLD44.pdf), [abstract](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_Anisia_Noiray_Aude_BUCLD_Abstract.pdf)
 6. Anisia Popescu, Lisa Hintermeier, Stella Krüger & Aude Noiray, (2019), Does the acquisition of reading affect speech Production?, Phonetics and Phonology in Europe (PaPE2019),
-	Lecce, Italy, 17-19 June, poster
-7. Anisia Popescu & Ioana Chitoran, (2018) Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018), Aix-Marseille Université ALLSH, 3-8 June, poster
+Lecce, Italy, 17-19 June, poster
+7. Anisia Popescu & Ioana Chitoran, (2018) Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018), Aix-Marseille Université ALLSH, 3-8 June, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Poster_LabPhon16_Anisia%20Popescu.pdf), [abstract](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/LabPhon16_Abstract_317.pdf)
 8. Anisia Popescu, Syllable count judgments: relating gestural composition and syllable weight, Chicago Linguistic Society 54 CLS54, University of Chicago, 26-28 April, talk
 9. Anisia Popescu & Ioana Chitoran, (2018), Syllable count judgments and temporal organization of articulatory gestures, Labphon16, Lisbon, Portugal, 19-22 June, poster
 10. Yenan Sun, Laura Stigliano, Eszter Ronai, Amara Sankhagowit. Anisia Popescu, Alan Yu & Ming Xiang, (2018), The role of contextual-pragmatic information on speech perception: an eye tracking study, LSA2018, Salt Lake City, 4-7 January, poster
@@ -65,6 +65,20 @@ Development BUCLD44, Boston, 7-9 November, [poster](https://github.com/anisiapop
 
 1. Phonology (Graduate) - Universté Paris Diderot, Fall 2017
 2. Introduction to Linguistics (Undergraduate) - Université Paris Diderot, Fall 2014, 2015, 2017
+
+### Grants 
+
+1. DAAD P.R.I.M.E Fellowship (2020) - German Academic Exchenge Service Research grant
+2. Marie Sklodowska-Curie Actions (2018) - Early Stage Researcher grant
+3. Accords Bilatéraux Bureau de Relations Internationales Université Paris Diderot (2016) - Office of international relations exchange program grant
+4. Labex ‘Empirical Foundations of Linguistics’ mobility Grant (2015)
+5. Région Ile de France - interantional mobility grant (2015)
+6. Doctoral Fellowship Doctoral School 132 - Sciences du Langage Université Paris Diderot (2014)
+
+
+
+
+
 
 
 
