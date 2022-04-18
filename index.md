@@ -38,23 +38,26 @@ pdf version here: [CV](https://github.com/anisiapopescu/anisiapopescu.github.io/
 3. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et positions dans la syllabe: Le cas des consonnes latérales, JEP-TALN-RECITAL2016 [link](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/J52.pdf)
 
 **Conference presentations**
-1. Anisia Popescu & Aude Noiray,(2021) Does Learning to Read interact with speech patterns in consistent alphabetic systems? The case of German, AMLap2021, Paris, September 2-4, short talk, [virtual]
-2. Anisia Popescu & Aude Noiray,(2021) Does learning how to read affect the way you speak? Preliminary insight from German beginning readers, 2021 Interantional Child Phonology 
+1. Anisia Popescu, Louis Goldstein, Mairym Llorens Monteséserin, Shrikanth Narayanan, (2022), A multi-slice rtMRI analysis of horizontal tongue narrowing in
+English laterals, LabPhon18, [poster], accepted
+2. Elina Rubertus, Anisia Popescu & Aude Noiray, (2022), Children anticipate vowels earlier in repeated than in read aloud speech, LabPhon18, [poster], accepted
+3. Anisia Popescu & Aude Noiray,(2021) Does Learning to Read interact with speech patterns in consistent alphabetic systems? The case of German, AMLap2021, Paris, September 2-4, short talk, [virtual]
+4. Anisia Popescu & Aude Noiray,(2021) Does learning how to read affect the way you speak? Preliminary insight from German beginning readers, 2021 Interantional Child Phonology 
 Conference, Canada June 17-19, [ppt](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/ICPC2021.pdf), [virtual]
-3. Anisia Popescu & Elina Rubertus, (2020) Development of coarticulation: comparing modalities in beginner readers, 12th International Seminar on Speech Production, Providence, 
+5. Anisia Popescu & Elina Rubertus, (2020) Development of coarticulation: comparing modalities in beginner readers, 12th International Seminar on Speech Production, Providence, 
 14-18 December, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Rubertus_Popescu_ISSP113_poster.pdf)
 ), [virtual]
-4. Anisia Popescu & Aude Noiray, (2020) Coarticulatory organization in beginner readers: a multifactorial interaction approach, 12th International Seminar on Speech Production, Providence, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_ISSP111_Poster.pdf)
-5. Anisia Popescu & Aude Noiray, (2019), Reading proficiency and Phonemic awareness as predictors of coarticulatory gradients in children, Boston University Conference on Language
+6. Anisia Popescu & Aude Noiray, (2020) Coarticulatory organization in beginner readers: a multifactorial interaction approach, 12th International Seminar on Speech Production, Providence, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_ISSP111_Poster.pdf)
+7. Anisia Popescu & Aude Noiray, (2019), Reading proficiency and Phonemic awareness as predictors of coarticulatory gradients in children, Boston University Conference on Language
 Development BUCLD44, Boston, 7-9 November, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_posterBUCLD44.pdf), [abstract](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Popescu_Anisia_Noiray_Aude_BUCLD_Abstract.pdf)
-6. Anisia Popescu, Lisa Hintermeier, Stella Krüger & Aude Noiray, (2019), Does the acquisition of reading affect speech Production?, Phonetics and Phonology in Europe (PaPE2019),
+8. Anisia Popescu, Lisa Hintermeier, Stella Krüger & Aude Noiray, (2019), Does the acquisition of reading affect speech Production?, Phonetics and Phonology in Europe (PaPE2019),
 Lecce, Italy, 17-19 June, poster
-7. Anisia Popescu & Ioana Chitoran, (2018) Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018), Aix-Marseille Université ALLSH, 3-8 June
-8. Anisia Popescu, Syllable count judgments: relating gestural composition and syllable weight, Chicago Linguistic Society 54 CLS54, University of Chicago, 26-28 April, talk
-9. Anisia Popescu & Ioana Chitoran, (2018), Syllable count judgments and temporal organization of articulatory gestures, Labphon16, Lisbon, Portugal, 19-22 June, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Poster_LabPhon16_Anisia%20Popescu.pdf), [abstract](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/LabPhon16_Abstract_317.pdf)
-10. Yenan Sun, Laura Stigliano, Eszter Ronai, Amara Sankhagowit. Anisia Popescu, Alan Yu & Ming Xiang, (2018), The role of contextual-pragmatic information on speech perception: an eye tracking study, LSA2018, Salt Lake City, 4-7 January, poster
-11. Anisia Popescu, (2016), F3 variability in allophones of /l/ acoustic articulatory relations, 5th Joint Meeting of the Acoustical Society of America and the Acoustical Society of Japan, Honolulu, Hawaii, 28 November – 02 December, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/ASA_F3_poster.pdf)
-12. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et position dans la syllabe: Le cas des consonnes latérales, JEP-TALN-RECITAL 2016, Paris 4-8 July, talk
+9. Anisia Popescu & Ioana Chitoran, (2018) Jugements sur le nombre de syllabes et coordination temporelle des gestes articulatoires, 32e Journées d’étude sur la parole (JEP2018), Aix-Marseille Université ALLSH, 3-8 June
+10. Anisia Popescu, Syllable count judgments: relating gestural composition and syllable weight, Chicago Linguistic Society 54 CLS54, University of Chicago, 26-28 April, talk
+11. Anisia Popescu & Ioana Chitoran, (2018), Syllable count judgments and temporal organization of articulatory gestures, Labphon16, Lisbon, Portugal, 19-22 June, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/Poster_LabPhon16_Anisia%20Popescu.pdf), [abstract](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/LabPhon16_Abstract_317.pdf)
+12. Yenan Sun, Laura Stigliano, Eszter Ronai, Amara Sankhagowit. Anisia Popescu, Alan Yu & Ming Xiang, (2018), The role of contextual-pragmatic information on speech perception: an eye tracking study, LSA2018, Salt Lake City, 4-7 January, poster
+13. Anisia Popescu, (2016), F3 variability in allophones of /l/ acoustic articulatory relations, 5th Joint Meeting of the Acoustical Society of America and the Acoustical Society of Japan, Honolulu, Hawaii, 28 November – 02 December, [poster](https://github.com/anisiapopescu/anisiapopescu.github.io/blob/main/images/ASA_F3_poster.pdf)
+14. Anisia Popescu & Ioana Chitoran, (2016), Allophonie et position dans la syllabe: Le cas des consonnes latérales, JEP-TALN-RECITAL 2016, Paris 4-8 July, talk
 
 **Teaching**
 
