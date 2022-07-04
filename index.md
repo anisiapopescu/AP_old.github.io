@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/anisiapopescu/anisiapopescu.github.io/main/images/poza.jpg" width=155>
 
 
-I'm a postdoctoral scholar at the [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam) and the [University of Southern California](https://www.usc.edu/). My reseach focuses on speech production and perception. I am interested in the organization and timing patterns of speech gestures and the mental representation of these patterns. I am also interested in speech development, in particular how speech fluency is affected by literacy acquisition in early childhood.  
+I'm a postdoctoral fellow at the [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam) and the [University of Southern California](https://www.usc.edu/). My reseach focusses on speech production and perception in a laboratory phonology approach and from a developmental perspective. My main interest has been the timing of gestural coordination patterns, acoustic-articulatory relations and the cognitive representation of
+phonological and prosodic units. From a developmental perspective, I am interested in speech production in children, specifically how speech production interacts with segmental representation, through metalinguistic skills such as reading proficiency.
 
 
 =====================
